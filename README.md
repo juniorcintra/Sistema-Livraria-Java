@@ -21,8 +21,7 @@ Cadastrar livros: Adicionar novos livros ao acervo da biblioteca.
   - Ver a lista de clientes: Observar a lista de clientes cadastrados no sistema.
 
 ## 📦 Como Executar
-1.Clone o repositório:
-  git clone https://github.com/andreiMDL/sistema-de-livraria.git
+1.Clone o repositório
 2.Importe o projeto em sua IDE de preferência.
 3.Execute a classe principal para iniciar o sistema.
 
